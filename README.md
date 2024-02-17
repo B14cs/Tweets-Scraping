@@ -24,7 +24,7 @@ To use this script, you need to have the following libraries installed:
 `pip install -r requirements.txt`
 </ol>
 
-## Usage
+## How to use
 <ol>
   <li>Ensure that you have Python 3.x and the required packages installed.</li>
   
@@ -36,19 +36,25 @@ To use this script, you need to have the following libraries installed:
 
   <li>
     There are two functions to use:
-    <ul>
-        <li><b>Multipule keywords:</b></li>
-            <ol>
-                <li>Specify the number of posts.</li>
-                <li>Add <b>4 keywords</b> as maximum to the list.</l>
-                <li>Call the function.</li>
-            </ol>
-        <li><b>Single keyword:</b></li>
-            <ol>
-                <li>Specify the number of posts.</li>
-                <li>Specify the keyword.</li>
-                <li>Call the function.</li>
-            </ol>
-    </ul>
+    <br>
+      <b>Multipule keywords:</b>
+          <ol>
+              <li>Specify the number of posts.</li>
+              <li>Add <b>4 keywords</b> as maximum to the list.</l>
+              <li>Call the function.</li>
+          </ol>
+      <b>Single keyword:</b>
+          <ol>
+              <li>Specify the number of posts.</li>
+              <li>Specify the keyword.</li>
+              <li>Call the function.</li>
+          </ol>
   </li>
 </ol>
+
+## Note
+For Advanced search, you can add more parameters on get_tweets().
+<br>
+To learn more:
+<br>
+<a>https://github.com/bocchilorenzo/ntscraper</a>
