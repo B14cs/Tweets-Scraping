@@ -1,6 +1,6 @@
 # X Posts -Tweets- Scraper
 
-This is a Python script for Scraping posts from X platform.
+This is a Python script for Scraping posts from the X platform.
 
 ## Requirements
 
